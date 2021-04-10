@@ -1,4 +1,4 @@
-# android_hid
+# android_hid-spy24
 Use Android as Rubber Ducky against targeted Android device or PC
 
 ## HID attack using Android
