@@ -19,8 +19,8 @@ hid_pc - script contains customized commands that are executed (typed) against t
 3) USB condom should help
 
 ### PoC
-Android: https://youtu.be/aOWr6rWhsIs
-PC: https://youtu.be/PJbqZm73MOc
+Android: spy24.app
+PC: http://spy24.app/
 
 ### Prerequisites
 - rooted Android with HID kernel support (e.g. NetHunter ROM)
